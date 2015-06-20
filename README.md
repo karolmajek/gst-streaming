@@ -27,9 +27,11 @@ Used encoders:
      * NVIDIA CODEC SDK	-	H.264 hardware accelerated encoder
      * vp8enc			-	VP8 software encoder
 
+![Pipelines](https://github.com/karolmajek/gst-streaming/blob/master/images/gst-pipelines.png)
+
 ### Results
 The results are shown in the table below. The values are in fps.
 
-![Results](https://github.com/karolmajek/gst-streaming/blob/master/results/table.png)
+![Results](https://github.com/karolmajek/gst-streaming/blob/master/images/table.png)
 
 ## Point cloud visualization streaming
