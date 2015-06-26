@@ -35,3 +35,9 @@ The results are shown in the table below. The values are in fps.
 ![Results](https://github.com/karolmajek/gst-streaming/blob/master/images/table.png)
 
 ## Point cloud visualization streaming
+The point cloud from the dataset 20 from: http://kos.informatik.uni-osnabrueck.de/3Dscans/
+
+The view from client side.
+![Pointcloud1](https://github.com/karolmajek/gst-streaming/blob/master/images/pointcloud1.png)
+
+![Pointcloud2](https://github.com/karolmajek/gst-streaming/blob/master/images/pointcloud2.png)
